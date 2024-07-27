@@ -1,0 +1,16 @@
+{
+  "name": "granular-controls-for-elementor",
+  "description": "",
+  "keywords": ["wordpress", "plugin"],
+  "homepage": "https://github.com/Alonsohhl/granular-controls-for-elementor",
+  "authors": [
+    {
+      "name": "Alonso Huayta",
+      "homepage": "https://originalpluginurl.com"
+    }
+  ],
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=8.0"
+  }
+}
